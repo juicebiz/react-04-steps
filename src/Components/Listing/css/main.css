@@ -1,0 +1,9 @@
+.Listing-table{
+    border-radius: 20px;
+    border: 1px solid #000000;
+}
+  
+.Listing-table th, .Listing-table td {
+    padding: 15px;
+    text-align: center;
+}
